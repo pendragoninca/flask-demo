@@ -22,7 +22,7 @@ def index():
         Did you know? Python eats the world!
     </p>
     <p>
-        Python Supports Readable Code is not complicated
+        Python Supports Readable Code  Not Complicated
     </p>
     <p>
         Get started by downloading Python Install Python

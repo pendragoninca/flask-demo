@@ -59,7 +59,7 @@ def index():
             </li>          
         </ul>
         <p>
-            Get Started with Python by:
+            Get Started with Python:
         </p>
         <ol>
             <li>
