@@ -22,10 +22,10 @@ def index():
         Did you know? Python eats the world!
     </p>
     <p>
-        Python Supports Readable Code  Not Complicated
+        Python Supports: Readable Code  Not Complicated
     </p>
     <p>
-        Get started by downloading Python Install Python
+        Get started by: downloading Python Install Python
     </p>
     </body>
     '''
